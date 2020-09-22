@@ -2,6 +2,7 @@
 #define FUNCIONES_H
 
 void suma(int a,int b){
+
     return a + b;
 }
 void resta (int a,int b){
